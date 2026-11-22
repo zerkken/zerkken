@@ -1,4 +1,4 @@
-### Hola, soy Cruz Mujica 👋
+### Hola, soy Cruz Mujica
 
 Desarrollador web y estudiante de Ingeniería en Informática en la UNEG con 2 años de experiencia construyendo aplicaciones web, sistemas administrativos y servicios backend. Trabajo entre el desarrollo full stack con Laravel, el diseño de APIs y la integración de modelos de IA locales para procesamiento documental. 
 
