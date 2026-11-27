@@ -24,7 +24,7 @@ Desarrollador web y estudiante de Ingeniería en Informática en la UNEG con 2 a
 
 ---
 
-📫 **Contacto:** `crusemiguel@gmail.com` · [LinkedIn](https://linkedin.com/in/cruz-mujica)
+**Contacto:** `crusemiguel@gmail.com` · [LinkedIn](https://linkedin.com/in/cruz-mujica)
 
 <!--
 **zerkken/zerkken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
